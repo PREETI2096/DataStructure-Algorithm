@@ -3,7 +3,7 @@ package com.bridgelabz.datastructure;
 import java.util.Arrays;
 
 public class BinarySearch {
-	
+
 	public void binarySearch(String[] array, int low, int high, String data) {
 
 		int mid = (low + high) / 2;
